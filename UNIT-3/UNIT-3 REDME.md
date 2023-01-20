@@ -27,4 +27,5 @@ PROGRAM :
     }
 
 
-OUTPUT :
+OUTPUT : ![3-1](https://user-images.githubusercontent.com/114165275/213682674-d441f13e-0259-49bb-8bf2-34acb6c49e34.png)
+
