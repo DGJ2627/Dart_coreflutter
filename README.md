@@ -1,6 +1,7 @@
-> #6. Widgets & Refactoring
+># 6. Widgets & Refactoring
 
-<u>LEC-1</u>
+
+># <u>LEC-1</u>
 
 <u> AIM 1 </u> : 
 
@@ -50,7 +51,7 @@
 
 <u> OUTPUT </u> :
 
-<u>LEC-2</u>
+>#  <u>LEC-2</u>
 
 <u> AIM 1 </u> : 
 
@@ -88,7 +89,7 @@
 
 <u> OUTPUT </u> :
 
-<u>LEC-3</u>
+>#  <u>LEC-3</u>
 
 <u> AIM 1 </u> : 
 
