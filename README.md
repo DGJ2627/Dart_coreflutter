@@ -1,16 +1,32 @@
-# viva_exam1
+# Viva Exam : 1
 
-A new Flutter project.
+<u>**Aim 1**</u> : Budget Tracers
 
-## Getting Started
+<u>**Program File**</u> : 1
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+<u>**Output**</u> :
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+![1](https://user-images.githubusercontent.com/114165275/224118286-6dc0dc60-0405-45f6-987e-0196b8262f1d.jpg)
+
+
+
+
+![2](https://user-images.githubusercontent.com/114165275/224118312-4b6a8e0c-160d-40ed-b932-9d19ccc4b849.jpg)
+
+
+
+
+![3](https://user-images.githubusercontent.com/114165275/224118344-10782a33-5e4f-46d9-805e-9fbc1bef5703.jpg)
+
+
+
+
+![4](https://user-images.githubusercontent.com/114165275/224118376-8e3585f4-0901-4555-af91-f4e4ea73e5a4.jpg)
+
+
+
+
+![5](https://user-images.githubusercontent.com/114165275/224118400-69db6c5c-f9c0-43a9-a61d-2cf221f45e3e.jpg)
