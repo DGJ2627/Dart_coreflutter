@@ -1,0 +1,48 @@
+List <Map < String ,dynamic > > quiz = [
+  {
+    'no': 1,
+    'question': 'Which is greater than 4?',
+    'A': '5',
+    'B': '-5',
+    'C': '-1/2',
+    'D': '-25',
+    'ans': 'A',
+  },
+  {
+    'no': 2,
+    'question': 'Which is the smallest?',
+    'A': '-1',
+    'B': '-1/2',
+    'C': '0',
+    'D': '3',
+    'ans': 'A',
+  },
+  {
+    'no': 3,
+    'question': 'Combine terms: 12a + 26b -4b – 16a.',
+    'A': '4a + 22b',
+    'B': '-28a + 30b',
+    'C': '-4a + 22b',
+    'D': '28a + 30b',
+    'ans': 'C',
+  },
+  {
+    'no': 4,
+    'question': 'Simplify: (4 – 5) – (13 – 18 + 2)',
+    'A': '-1',
+    'B': '-2',
+    'C': '1',
+    'D': '2',
+    'ans': 'D',
+  },
+  {
+    'no': 5,
+    'question': 'What is |-26|?',
+    'A': '-26',
+    'B': '26',
+    'C': '0',
+    'D': '1',
+    'ans': 'B',
+  },
+
+];
