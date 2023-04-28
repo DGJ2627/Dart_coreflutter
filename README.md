@@ -1,16 +1,15 @@
 # viva_sec_app
 
-A new Flutter project.
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot 2023-04-28 225704](https://user-images.githubusercontent.com/114165275/235214775-3355dcd9-f104-4d4a-9746-38f84ca54368.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
+
+
+
+
+https://user-images.githubusercontent.com/114165275/235215750-dbfa3f1a-cab7-4831-b312-ead739db6410.mp4
+
