@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:viva_sec_app/screens/views/home_page.dart';
 import 'package:viva_sec_app/screens/views/splash_page.dart';
+import 'package:viva_sec_app/screens/views/stop_watch.dart';
 
 void main() {
   runApp(
@@ -16,9 +17,8 @@ class Gautam extends StatelessWidget {
     return  MaterialApp(
       debugShowCheckedModeBanner: false,
       routes: {
-        // '/' : (context) =>  home_page(),
-        // 'splash_page' : (context) => const splash_page(),
-        '/' : (context) => Gautam(),
+        'splash_page' : (context) => const splash_page(),
+        '/' : (context) => stop_page(),
       },
     );
   }
